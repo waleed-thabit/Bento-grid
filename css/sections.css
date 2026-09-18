@@ -109,6 +109,9 @@
 }
 .para-7 {
   color: black;
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 1;
 }
 .para-8 {
   color: black;
@@ -135,7 +138,7 @@
   width: 60%;
 }
 .img-7 {
-  width: 100px;
+  width: 70%;
 }
 .img-8 {
   width: 100px;
