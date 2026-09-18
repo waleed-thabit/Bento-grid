@@ -2,6 +2,7 @@
   background-color: var(--purple-500);
   justify-content: center;
   align-items: center;
+  text-align: center;
 }
 .sec-2 {
   background-color: var(--white);
@@ -43,17 +44,24 @@
 .sec-8 {
   display: flex;
   flex-direction: column;
-  padding: 20px;
   border-radius: 10px;
+  padding: 30px;
 }
 
 /* pragraphs styling */
 
 .para-1 {
   color: white;
+  font-size: 55px;
+  font-weight: 500;
+  margin: 0;
+  margin-bottom: 15px;
 }
 .para-1-1 {
   color: white;
+  font-size: 20px;
+  font-weight: 300;
+  word-spacing: 4px;
 }
 .para-2 {
   color: black;
@@ -87,7 +95,7 @@
 /* images styling  */
 
 .img-1 {
-  width: 100px;
+  width: 70%;
 }
 .img-2 {
   width: 100px;
