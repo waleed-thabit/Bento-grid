@@ -37,6 +37,7 @@
   background-color: var(--purple-500);
   justify-content: center;
   align-items: center;
+  text-align: center;
 }
 .sec-6 {
   background-color: var(--white);
@@ -90,6 +91,10 @@
 }
 .para-5 {
   color: white;
+  font-size: 34px;
+  font-weight: 600;
+  line-height: 1;
+  margin-bottom: 0;
 }
 .para-6 {
   color: black;
@@ -119,7 +124,7 @@
   width: 100%;
 }
 .img-5 {
-  width: 100px;
+  width: 70%;
 }
 .img-6 {
   width: 100px;
