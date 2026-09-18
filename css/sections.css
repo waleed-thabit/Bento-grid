@@ -1,29 +1,27 @@
 .sec-1 {
-  background-color: white;
+  background-color: var(--purple-500);
 }
 .sec-2 {
-  background-color: white;
+  background-color: var(--white);
 }
 .sec-3 {
-  background-color: white;
+  background-color: var(--yellow-500);
 }
 .sec-4 {
-  background-color: white;
+  background-color: var(--purple-100);
 }
-.sec-4 {
-  background-color: white;
-}
+
 .sec-5 {
-  background-color: white;
+  background-color: var(--purple-500);
 }
 .sec-6 {
-  background-color: white;
+  background-color: var(--white);
 }
 .sec-7 {
-  background-color: white;
+  background-color: #faeee2;
 }
 .sec-8 {
-  background-color: white;
+  background-color: var(--yellow-500);
 }
 
 /* pragraphs styling */
