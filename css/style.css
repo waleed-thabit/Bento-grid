@@ -24,4 +24,5 @@ main {
   grid-template-columns: 1fr;
   padding: 24px;
   background-color: var(--base);
+  gap: 2%;
 }
