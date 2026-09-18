@@ -115,6 +115,9 @@
 }
 .para-8 {
   color: black;
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 1;
 }
 
 /* images styling  */
@@ -141,5 +144,5 @@
   width: 70%;
 }
 .img-8 {
-  width: 100px;
+  width: 70%;
 }
