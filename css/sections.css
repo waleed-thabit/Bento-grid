@@ -78,9 +78,15 @@
 }
 .para-4 {
   color: black;
+  font-size: 22px;
+  font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 10px;
 }
 .para-4-1 {
   color: black;
+  font-size: 18px;
+  font-weight: 300;
 }
 .para-5 {
   color: white;
@@ -110,7 +116,7 @@
   width: 50%;
 }
 .img-4 {
-  width: 100px;
+  width: 100%;
 }
 .img-5 {
   width: 100px;
