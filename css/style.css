@@ -23,7 +23,7 @@ html {
 main {
   display: grid;
   grid-template-columns: 1fr;
-  padding: 24px;
+  padding: 20px;
   background-color: var(--base);
-  gap: 2%;
+  gap: 1%;
 }
