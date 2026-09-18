@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+body,
+html {
+  min-height: 100vb;
+  min-height: 100dvb;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  display: grid;
+  grid-template-columns: 1fr;
+  padding: 24px;
+}
